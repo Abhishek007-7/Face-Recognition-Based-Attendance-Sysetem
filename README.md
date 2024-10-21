@@ -97,5 +97,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-- **Abhishek** - [GitHub Profile]([<your-github-url>](https://github.com/Abhishek007-7))
-```
+- **Abhishek** 
